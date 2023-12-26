@@ -1,2 +1,9 @@
 # Dynamic-Mini-Calendar
-📅✨ Excited to share my mini calendar project! 🚀 Built with HTML, CSS, and JavaScript, this sleek design displays the current date, day, month, and year. 🌐💻 A simple yet elegant addition to your web projects. Check it out and feel free to explore the code on my GitHub! 🌈👩‍💻 #WebDevelopment #JavaScriptMagic #CodingJourney
+
+click the link : https://dynamic-mini-calendar-by-nk.netlify.app/
+
+📅 The HTML structure defines a container and a calendar with left and right sections.
+🎨 CSS styles create a visually appealing and responsive design, utilizing gradients and rounded corners.
+🧮 JavaScript fetches the current date, day, month, and year, dynamically updating the content on the page.
+🚀 The result is a sleek Mini Calendar that provides essential information at a glance!
+Feel free to ask if you have any specific questions! 👨‍💻✨
